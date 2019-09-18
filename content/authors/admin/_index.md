@@ -18,7 +18,7 @@ role: Computer Networks Researcher
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Network measurement and IoT security researcher currently looking for challenging projects.
+bio: Network analysis researcher on the lookout for challenging projects.
 
 interests:
 - Network Measurement
