@@ -14,22 +14,40 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "network-wired"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Network Monitoring"
+  description = "DPI, pcap, nmap, tshark, iperf, broadband usage"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "wifi"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Home Networks"
+  description = "IoTs, usage behavior, WSN reliability"  
+  
+[[feature]]
+  icon = "unlock-alt"
+  icon_pack = "fas"
+  name = "Network Security"
+  description = "IoT privacy, smart home security, malware identification"
 
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Data Analysis"
+  description = "statistics, machine learning, SQL"  
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "iPython"
+  description = "pandas, scikit-learn, scipy, numpy, matplotlib"
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Coding"
+  description = "Python, Scala, Java, C/C++"  
 +++
