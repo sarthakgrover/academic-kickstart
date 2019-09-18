@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Computer Networking Researcher
+role: Computer Networks Researcher
 
 # Organizations/Affiliations
 # organizations:
@@ -18,7 +18,7 @@ role: Computer Networking Researcher
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Network measurement and IoT security researcher looking for challenging projects.
+bio: Network measurement and IoT security researcher currently looking for challenging projects.
 
 interests:
 - Network Measurement
