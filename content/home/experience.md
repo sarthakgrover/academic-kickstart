@@ -25,16 +25,17 @@ date_format = "Jan 2006"
   location = "New Delhi, India"
   date_start = "2018-04-01"
   date_end = ""
-  description = """Currently managing small scale family owned business (7 employees) while completing Coursera courses in the deep learning and functional programming in Scala.
+  description = """Currently managing small scale family owned business (7 employees) while completing the deep learning and functional programming in Scala Coursera MOOCs.
 
   Responsibilities include:
   
-  * Finance and Logistics Management
-  * Primary Caregiver
+  * Sales and Delivery
+  * Account Management
+  * Logistics
 
   Projects:
 
-  * 
+  * CDN performance analysis and comparison with ASNs
   """
 
 [[experience]]
@@ -44,12 +45,14 @@ date_format = "Jan 2006"
   location = "Princeton, NJ"
   date_start = "2015-01-01"
   date_end = "2017-09-01"
-  description = """Researched IoT security and broadband usage.
+  description = """Researched IoT security, fingerprinting, and broadband usage.
 
   Projects:
 
-  *
-  *
+  * IoT feature extraction and fingerprinting 
+  * Security and privacy of the Internet of Things
+  * Broadband traffic analysis for Comcast customers
+  * Teaching Assistant for Coursera MOOC Fog Networks and the Internet of Things
   """
 
 [[experience]]
@@ -63,8 +66,11 @@ date_format = "Jan 2006"
 
   Projects:
 
-  *
-  *
+  * Home network reliability and traffic analysis
+  * Browserlab: Bottleneck detection and diagnosis of home networks
+  * QoS control using SDN in home networks
+  * Facade: Censorship circumvention using encoded web search terms
+  * SAZO: Home network security at the router (Panoptes)
   """
 
 [[experience]]
@@ -78,7 +84,7 @@ date_format = "Jan 2006"
 
   Projects:
 
-  *
+  * Analysis of end-to-end routing behavior from access-networks
   """
 
 
@@ -93,7 +99,7 @@ date_format = "Jan 2006"
 
   Projects:
 
-  *
+  * Implement FM/AM on GNURadio and use RDS field to track location
   """
 
 
@@ -108,7 +114,7 @@ date_format = "Jan 2006"
 
   Projects:
 
-  *
-  *
+  * Closed form expressions for network reliability using tessellation
+  * Field testing of WSNs and routing protocols for random hybrid networks
   """
 +++
