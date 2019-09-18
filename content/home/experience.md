@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "New Delhi, India"
   date_start = "2018-04-01"
   date_end = ""
-  description = """Manage finance and logistics of a family owned business.
+  description = """Manage finance and logistics of a family owned business. Currently completing Coursera MOOCs on deep learning and functional programming in Scala.
 
   Responsibilities include:
   
