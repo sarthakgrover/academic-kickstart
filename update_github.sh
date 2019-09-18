@@ -5,7 +5,7 @@
 # Command: bash ./update_github.sh
 
 echo -e "Publish new public folder...\n"
-rm -r public/
+rm -rf public/
 git submodule add -f -b master https://github.com/sarthakgrover/sarthakgrover.github.io.git public
 
 echo -e "Regenerate html code for display"
