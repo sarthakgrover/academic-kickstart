@@ -109,9 +109,7 @@ address = {city = "New Delhi", country = "India", country_code = "IN"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-
-  link: 
-  #{icon = "linkedin", icon_pack = "fab", name = "LinkedIn Me", link = "https://www.linkedin.com/in/groversarthak/"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn Me", link = "https://www.linkedin.com/in/groversarthak/"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:shahifaqeer?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
