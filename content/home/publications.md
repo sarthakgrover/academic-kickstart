@@ -147,7 +147,7 @@ London, UK, September 2008. [<a href="http://dx.doi.org/10.1109/UKRICIS.2008.479
 <em>Panoptes: Detecting Malware Activity in Home Networks</em><br>
 <b>S. Grover</b>, N. Feamster<br>
 <em>UbiComp Workshop on Design, Technology, Systems and Applications for the Home (HomeSys)</em>, Poster<br>
-Zurich, Switzerland. September 2013. [<a href="~/content/publication/panoptes2013.pdf">pdf</a>] 
+Zurich, Switzerland. September 2013. [<a href="../publication/panoptes2013.pdf">pdf</a>] 
 </li>
 
 <p>
@@ -170,7 +170,7 @@ Lombart, IL. April 2013. [<a href="https://www.usenix.org/system/files/nsdip13-p
 <em>Performance Evaluation of Wireless Body Area Network using Cross Layer Approach</em><br>
 S. Grover<br>
 <em>Master's Thesis, Indian Institute of Technology Roorkee</em><br>
-Roorkee, June 2010. [<a href="~/content/publication/performance-WBAN2010.pdf">pdf</a>]
+Roorkee, June 2010. [<a href="../publication/performance-WBAN2010.pdf">pdf</a>]
 </li>
 <p>
 
