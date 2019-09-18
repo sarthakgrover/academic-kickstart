@@ -80,7 +80,7 @@ Greece. March 2016. [<a href="https://link.springer.com/chapter/10.1007%2F978-3-
 Presented at CableLabs 2016 and Federal Communications Commission.
 
 
-<em>The Internet of Unpatched Things (Talk)</em><br>
+<em>The Internet of Unpatched Things</em><br>
 <b>S. Grover</b>, N. Feamster<br>
 <em>Federal Trade Commission - PrivacyCon</em> Washington D.C. January 2016. [<a href="https://www.ftc.gov/system/files/documents/public_comments/2015/10/00071-98118.pdf">pdf</a>, <a href="https://www.ftc.gov/news-events/audio-video/video/privacycon-part-5">mp4</a>]
 
