@@ -37,13 +37,13 @@ subtitle = ""
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Analysis"
-  description = "statistics, machine learning, SQL"  
+  description = "statistics, machine learning, SQL, Spark"  
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "iPython"
-  description = "pandas, scikit-learn, scipy, numpy, matplotlib"
+  description = "pandas, scikit-learn, scipy, numpy, scrapy"
 
 [[feature]]
   icon = "laptop-code"
