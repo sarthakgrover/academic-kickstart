@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Manager"
-  company = "Sugandhaa"
+  title = "Managing Director"
+  company = "Sugandhaa Co."
   company_url = ""
   location = "New Delhi, India"
   date_start = "2018-04-01"
   date_end = ""
-  description = """Currently managing small scale family owned business (7 employees) while completing the deep learning and functional programming in Scala Coursera MOOCs.
+  description = """Manage finance and logistics of a family owned business.
 
   Responsibilities include:
   
@@ -33,13 +33,14 @@ date_format = "Jan 2006"
   * Account Management
   * Logistics
 
+
   Projects:
 
   * CDN performance analysis and comparison with ASNs
   """
 
 [[experience]]
-  title = "Graduate Research Assistant"
+  title = "Graduate Research Assistant (PhD)"
   company = "Princeton University"
   company_url = ""
   location = "Princeton, NJ"
@@ -56,7 +57,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Graduate Research Assistant"
+  title = "Graduate Research Assistant (PhD)"
   company = "Georgia Institute of Technology"
   company_url = ""
   location = "Atlanta, GA"
@@ -74,7 +75,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Graduate Research Assistant (PhD)"
   company = "University of Maryland"
   company_url = ""
   location = "College Park, MD"
