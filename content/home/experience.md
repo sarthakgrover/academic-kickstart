@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   company = "Georgia Institute of Technology"
   company_url = ""
   location = "Atlanta, GA"
-  date_start = "2013-01-01"
+  date_start = "2012-08-01"
   date_end = "2014-12-31"
   description = """Researched home network availability, reliability and device usage.
   
@@ -66,20 +66,9 @@ date_format = "Jan 2006"
   * QoS control using SDN in home networks
   * Facade: Censorship circumvention using encoded web search terms
   * SAZO: Home network security at the router (Panoptes)
-  """
-
-[[experience]]
-  title = "Graduate Research Assistant (PhD)"
-  company = "University of Maryland"
-  company_url = ""
-  location = "College Park, MD"
-  date_start = "2012-07-01"
-  date_end = "2012-12-31"
-  description = """Analyzed network path and latency data collected from home routers.
-
   * Analysis of end-to-end routing behavior from access-networks
   """
-
+  
 
 [[experience]]
   title = "Research Scholar"
