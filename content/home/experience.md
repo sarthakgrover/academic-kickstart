@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Graduate Research Assistant (PhD)"
+  title = "Graduate Research Assistant"
   company = "Princeton University"
   company_url = ""
   location = "Princeton, NJ"
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Graduate Research Assistant (PhD)"
+  title = "Graduate Research Assistant"
   company = "Georgia Institute of Technology"
   company_url = ""
   location = "Atlanta, GA"
