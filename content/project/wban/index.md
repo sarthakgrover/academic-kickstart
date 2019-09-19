@@ -7,7 +7,7 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2010-01
+date: 2010-01-01
 lastmod: 2019-09-19T22:10:06+05:30
 featured: false
 draft: false

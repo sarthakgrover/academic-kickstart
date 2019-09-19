@@ -7,7 +7,7 @@ summary: "High-throughput, deniable censorship circumvention using web search"
 authors: []
 tags: []
 categories: []
-date: 2014-08
+date: 2014-08-01
 lastmod: 2019-09-19T22:04:38+05:30
 featured: false
 draft: false

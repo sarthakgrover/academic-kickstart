@@ -7,7 +7,7 @@ summary: "Identify IoT devices using their network profiles"
 authors: []
 tags: []
 categories: []
-date: 2019-06
+date: 2019-06-01
 lastmod: 2019-09-19T22:07:51+05:30
 featured: false
 draft: false

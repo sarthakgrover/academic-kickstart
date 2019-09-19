@@ -7,7 +7,7 @@ summary: "Delivering mobile platforms as a cloud service"
 authors: []
 tags: []
 categories: []
-date: 2013-04
+date: 2013-04-01
 lastmod: 2019-09-19T22:10:06+05:30
 featured: false
 draft: false

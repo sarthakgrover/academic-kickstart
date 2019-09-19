@@ -7,7 +7,7 @@ summary: "Implementation of a real time human face tracking system"
 authors: []
 tags: []
 categories: []
-date: 2008-03
+date: 2008-03-01
 lastmod: 2019-09-20T00:44:53+05:30
 featured: false
 draft: false

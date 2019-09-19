@@ -7,7 +7,7 @@ summary: "Implementation of a soft decision decoder using Trellis on FPGA"
 authors: []
 tags: []
 categories: []
-date: 2009-09
+date: 2009-09-01
 lastmod: 2019-09-20T00:44:32+05:30
 featured: false
 draft: false

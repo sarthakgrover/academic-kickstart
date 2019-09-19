@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Project Bismark"
+title: "Project BISmark"
 subtitle: ""
 summary: "Analysis of home network availability, infrastructure, and traffic"
 authors: []
 tags: []
 categories: []
-date: 2013-05
+date: 2013-05-01
 lastmod: 2019-09-19T22:05:03+05:30
 featured: false
 draft: false

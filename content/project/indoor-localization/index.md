@@ -7,7 +7,7 @@ summary: "Locating smartphones using FM radio"
 authors: []
 tags: []
 categories: []
-date: 2012-02
+date: 2012-02-01
 lastmod: 2019-09-19T22:05:48+05:30
 featured: false
 draft: false

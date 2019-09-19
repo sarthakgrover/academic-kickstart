@@ -7,7 +7,7 @@ summary: "Internet of Unpatched Things"
 authors: []
 tags: []
 categories: []
-date: 2015-11
+date: 2015-11-01
 lastmod: 2019-09-19T22:08:13+05:30
 featured: false
 draft: false

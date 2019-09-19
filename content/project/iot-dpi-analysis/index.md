@@ -7,7 +7,7 @@ summary: "Analysis of home network data collected from Comcast customers"
 authors: []
 tags: []
 categories: []
-date: 2016-06
+date: 2016-06-01
 lastmod: 2019-09-19T22:09:14+05:30
 featured: false
 draft: false
