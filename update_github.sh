@@ -11,14 +11,14 @@ git submodule add -f -b master https://github.com/sarthakgrover/sarthakgrover.gi
 echo -e "Regenerate html code for display"
 hugo
 
-echo -e "Push to remote repository"
-git add public/
-git commit -m "updated public and site"
-git push -u origin master
-
-echo -e "Push to public"
+echo -e "Push to public website"
 cd public
 git add .
 git commit -m "Build website"
 git push origin master
 cd ..
+
+echo -e "Push to remote repository"
+git add public/
+git commit -m "updated public and site"
+git push -u origin master
