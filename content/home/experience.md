@@ -26,13 +26,11 @@ date_format = "Jan 2006"
   date_start = "2018-04-01"
   date_end = ""
   description = """Manage finance and logistics of a family owned business. Currently completing Coursera MOOCs on deep learning and functional programming in Scala.
-
   Responsibilities include:
   
   * Sales and Delivery
   * Account Management
   * Logistics
-
 
   Projects:
 
@@ -47,9 +45,7 @@ date_format = "Jan 2006"
   date_start = "2015-01-01"
   date_end = "2017-09-01"
   description = """Researched IoT security, fingerprinting, and broadband usage.
-
-  Projects:
-
+  
   * IoT feature extraction and fingerprinting 
   * Security and privacy of the Internet of Things
   * Broadband traffic analysis for Comcast customers
@@ -64,9 +60,7 @@ date_format = "Jan 2006"
   date_start = "2013-01-01"
   date_end = "2014-12-31"
   description = """Researched home network availability, reliability and device usage.
-
-  Projects:
-
+  
   * Home network reliability and traffic analysis
   * Browserlab: Bottleneck detection and diagnosis of home networks
   * QoS control using SDN in home networks
@@ -83,8 +77,6 @@ date_format = "Jan 2006"
   date_end = "2012-12-31"
   description = """Analyzed network path and latency data collected from home routers.
 
-  Projects:
-
   * Analysis of end-to-end routing behavior from access-networks
   """
 
@@ -98,8 +90,6 @@ date_format = "Jan 2006"
   date_end = "2012-04-30"
   description = """Researched indoor localization using radio.
 
-  Projects:
-
   * Implement FM/AM on GNURadio and use RDS field to track location
   """
 
@@ -112,9 +102,7 @@ date_format = "Jan 2006"
   date_start = "2011-03-01"
   date_end = "2011-12-31"
   description = """Researched wireless sensor networks for disaster management.
-
-  Projects:
-
+  
   * Closed form expressions for network reliability using tessellation
   * Field testing of WSNs and routing protocols for random hybrid networks
   """
