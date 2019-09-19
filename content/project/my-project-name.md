@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Project Name Demo"
+title: "Updating ..."
 subtitle: ""
 summary: "summary of proj"
 authors: []
@@ -27,11 +27,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-# CONTENT HERE
-## Sub-content
-
-something something
-
-
-end something
