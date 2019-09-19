@@ -32,7 +32,7 @@ education:
 #    year: 2017
   - course: MA (PhD incomplete) in Computer Science 
     institution: Princeton University
-    year: 2017
+    year: 2016
   - course: MTech in Electronics and Communication Engg (Wireless Communication)
     institution: Indian Institute of Technology Roorkee
     year: 2010
