@@ -12,8 +12,7 @@ echo -e "Regenerate html code for display"
 hugo
 
 echo -e "Push to remote repository"
-git add .
-git commit -m "updated site"
+git commit -a -m "updated public and site"
 git push -u origin master
 
 echo -e "Push to public"
