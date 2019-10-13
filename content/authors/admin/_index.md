@@ -18,12 +18,12 @@ role: Computer Networks Researcher
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Network analysis researcher on the lookout for challenging projects.
+bio: Network analysis researcher and security expert
 
-interests:
-- Network Measurement
-- IoT Security
-- Data Analysis and Machine Learning
+Interests:
+- Network Measurement & Analysis
+- Network Security
+- Machine Learning
 
 education:
   courses:
@@ -32,13 +32,13 @@ education:
 #    year: 2017
   - course: MA (PhD incomplete) in Computer Science 
     institution: Princeton University
-    year: 2016
+#    year: 2016
   - course: MTech in Electronics and Communication Engg (Wireless Communication)
     institution: Indian Institute of Technology Roorkee
-    year: 2010
+#    year: 2010
   - course: BTech in Electronics and Communication Engg
     institution: Indian Institute of Technology Roorkee
-    year: 2010
+#    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -73,4 +73,4 @@ social:
 # - Visitors
 ---
 
-I'm a network measurement and data analysis researcher. I enjoy working with IoTs, analyzing Internet usage and reliability, and developing solutions to make network usage more secure.
+I'm a network analysis and security researcher. I enjoy working with home networks & IoTs, analyzing Internet usage and reliability, and developing solutions to make our networks more secure.
