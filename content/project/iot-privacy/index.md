@@ -5,7 +5,7 @@ title: "IoT Privacy"
 subtitle: ""
 summary: "Internet of Unpatched Things"
 authors: []
-tags: []
+tags: ["security", "networking"]
 categories: []
 date: 2015-11-01
 lastmod: 2019-09-19T22:08:13+05:30

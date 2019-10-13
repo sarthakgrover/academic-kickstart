@@ -5,7 +5,7 @@ title: "Routing Analysis"
 subtitle: ""
 summary: "Analysis of end-to-end routing behavior via the access point"
 authors: []
-tags: []
+tags: ["networking", "analysis", "bismark"]
 categories: []
 date: 2012-08-01
 lastmod: 2019-09-19T22:05:03+05:30
@@ -31,3 +31,5 @@ projects: []
 Analyzed traceroute data from access networks to a variety of Internet destinations and examined route persistence and prevalence. Our aim is to associate home network performance metrics with path changes due to traffic engineering policies.
 
 Preliminary results were presented in a talk at Active Internet Measurement Symposium (AIMS), CAIDA.
+
+- Link to [code](https://github.com/shahifaqeer/access-point-routing)

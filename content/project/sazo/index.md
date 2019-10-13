@@ -5,7 +5,7 @@ title: "SAZO"
 subtitle: ""
 summary: "Constant guard for home network security"
 authors: []
-tags: []
+tags: ["security", "bismark", "system"]
 categories: []
 date: 2013-01-01
 lastmod: 2019-09-19T22:05:11+05:30

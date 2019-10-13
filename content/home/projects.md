@@ -19,19 +19,39 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  filter_default = 1
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+
+  [[content.filter_button]]
+    name = "Networking"
+    tag = "networking"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "Network Analysis"
+    tag = "analysis"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "Network Security"
+    tag = "security"
+
+#  [[content.filter_button]]
+#    name = "Censorship"
+#    tag = "censorship"
+
+#  [[content.filter_button]]
+#    name = "Router"
+#    tag = "bismark"
+
+#  [[content.filter_button]]
+#    name = "Wireless"
+#    tag = "wireless"
+
+  [[content.filter_button]]
+    name = "Others"
+    tag = "others"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -42,7 +62,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

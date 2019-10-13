@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Case study of traffic demand response to
 broadband service-plan upgrades"
 authors: []
-tags: []
+tags: ["networking", "analysis"]
 categories: []
 date: 2015-03-01
 lastmod: 2019-09-19T22:07:29+05:30

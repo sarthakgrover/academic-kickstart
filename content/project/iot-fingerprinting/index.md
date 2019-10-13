@@ -5,7 +5,7 @@ title: "IoT Fingerprinting"
 subtitle: ""
 summary: "Identify IoT devices using their network profiles"
 authors: []
-tags: []
+tags: ["networking", "analysis", "machine-learning"]
 categories: []
 date: 2019-06-01
 lastmod: 2019-09-19T22:07:51+05:30
@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+- Link to [Code](https://github.com/shahifaqeer/livinglab) to collect traces using soft access point.
 - Offload the security of a home network to a home router.
 - Fingerprint IoT devices to learn their network profile.
 - Collaborate with other gateways to detect anomalous behavior.

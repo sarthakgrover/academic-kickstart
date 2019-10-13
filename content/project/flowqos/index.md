@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Flowqos"
+title: "FlowQoS"
 subtitle: ""
 summary: "Providing per-flow Quality of service for broadband access networks"
 authors: []
-tags: []
+tags: ["networking", "system", "bismark", "analysis"]
 categories: []
 date: 2014-07-01
 lastmod: 2019-09-19T22:04:27+05:30

@@ -5,7 +5,7 @@ title: "CDN Analysis"
 subtitle: ""
 summary: "Measurement and comparison of page load times across identifiable CDNs"
 authors: []
-tags: []
+tags: ["networking", "analysis"]
 categories: []
 date: 2019-01-01
 lastmod: 2019-09-19T22:03:47+05:30

@@ -5,7 +5,7 @@ title: "IOT DPI Analysis"
 subtitle: ""
 summary: "Analysis of home network data collected from Comcast customers"
 authors: []
-tags: []
+tags: ["networking", "security"]
 categories: []
 date: 2016-06-01
 lastmod: 2019-09-19T22:09:14+05:30
@@ -29,6 +29,7 @@ projects: []
 ---
 
 ## Customer Owned and Managed (COAM) Internet of Things (IoT) security
+
 - Used DPI to study connectivity, security, and privacy of a subset of Comcast smart homes
 - Developed script to search for PII in unencrypted IoT data
 - Identified malfunctioning XBOX in one of the subscribers

@@ -5,7 +5,7 @@ title: "Smart Connect"
 subtitle: ""
 summary: "WSNs for societal needs and disaster management"
 authors: []
-tags: []
+tags: ["others", "wireless", "theory"]
 categories: []
 date: 2011-03-01
 lastmod: 2019-09-19T22:06:29+05:30

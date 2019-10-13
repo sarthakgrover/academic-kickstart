@@ -5,7 +5,7 @@ title: "WBAN"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: ["others", "wireless"]
 categories: []
 date: 2010-01-01
 lastmod: 2019-09-19T22:10:06+05:30

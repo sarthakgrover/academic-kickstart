@@ -5,7 +5,7 @@ title: "Facade"
 subtitle: ""
 summary: "High-throughput, deniable censorship circumvention using web search"
 authors: []
-tags: []
+tags: ["security", "censorship", "networking"]
 categories: []
 date: 2014-08-01
 lastmod: 2019-09-19T22:04:38+05:30
@@ -31,3 +31,4 @@ projects: []
 - Designed and implemented a new encoding technique that uses web search terms to encode hidden messages in an upstream channel for censorship circumvention to resist fingerprinting attacks.
 - Results published at FOCI 2014, San Diego, CA.
 - Link to [paper](../../publication/facade2014.pdf)
+- Link to [code](https://github.com/gsathya/htpt)

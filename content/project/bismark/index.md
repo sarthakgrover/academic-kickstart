@@ -5,7 +5,7 @@ title: "Project BISmark"
 subtitle: ""
 summary: "Analysis of home network availability, infrastructure, and traffic"
 authors: []
-tags: []
+tags: ["networking", "bismark", "analysis"]
 categories: []
 date: 2013-05-01
 lastmod: 2019-09-19T22:05:03+05:30
@@ -35,4 +35,5 @@ projects: []
 - Results published at ACM SIGCOMM IMC 2013, Barcelona, Spain.
 - Link to [talk](https://www.lincs.fr/events/peeking-behind-the-nat-an-empirical-study-of-home-networks/)
 - Link to [paper](../../publication/peeking-nat2013.pdf)
+- Link to [code](https://github.com/shahifaqeer/passive) for analysis.
 

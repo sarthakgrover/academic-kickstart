@@ -5,7 +5,7 @@ title: "mPaaS"
 subtitle: ""
 summary: "Delivering mobile platforms as a cloud service"
 authors: []
-tags: []
+tags: ["others", "system"]
 categories: []
 date: 2013-04-01
 lastmod: 2019-09-19T22:10:06+05:30
